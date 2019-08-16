@@ -1,5 +1,8 @@
 # Overview
 
+**WARNING**: This is an unofficial, untested, and experimental layer from
+the community.
+
 This interface layer handles the communication between the Ceph Monitor 
 and a client that requires an admin key.
 
